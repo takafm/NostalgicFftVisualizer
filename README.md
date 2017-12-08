@@ -2,7 +2,7 @@
 
 Nostalgic sound visualizer using FFT
 
-FFTで周波数成分を色相とノイズ発生に利用した懐かしい雰囲気のエフェクトです。
+周波数成分を色相とノイズに利用して懐かしい雰囲気のエフェクトを作りたい。
 
 @openFrameworks on VS2015
 
